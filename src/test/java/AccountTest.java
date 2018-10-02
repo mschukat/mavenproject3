@@ -22,6 +22,6 @@ public class AccountTest {
     Account acc = new Account("Michael", 1000);
     assertEquals(acc.getName(), "Michael");
     Account acc2 = new Account("Tony", 100);
-    assertEquals(acc2.getName(), "Tony");
+    assertEquals(acc2.getName(), "Toni");
   } 
 }
