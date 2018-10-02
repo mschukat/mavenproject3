@@ -14,4 +14,4 @@ after_success:
 notifications:
   email:
       recipients:
-         ct417test@gmail.com
+         ct417demo@gmail.com
