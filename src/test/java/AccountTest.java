@@ -20,6 +20,6 @@ public class AccountTest {
     @Test
     public void evaluatesGetName() {
     Account acc = new Account("Michael", 1000);
-    assertEquals(acc.getName(), "Michael");
+    assertEquals(acc.getName(), "Michael1");
   } 
 }
