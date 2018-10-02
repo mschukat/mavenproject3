@@ -19,7 +19,7 @@ public class AccountTest {
 
     @Test
     public void evaluatesGetName() {
-    Account acc = new Account("Michael", 100);
+    Account acc = new Account("Michael", 1000);
     assertEquals(acc.getName(), "Michael");
   } 
 }
